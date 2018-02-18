@@ -7,7 +7,7 @@ public class question1 {
 
         try {
             in = new FileReader("input.txt");
-            out = new FileWriter("home/payal/Desktop/dest/output.txt");
+            out = new FileWriter("output.txt");
 
             int c;
             while ((c = in.read()) != -1) {
