@@ -6,7 +6,7 @@ public class question1 {
         FileWriter out = null;
 
         try {
-            in = new FileReader("input.txt");
+            in = new FileReader("/home/payal/Desktop/output.txt");
             out = new FileWriter("output.txt");
 
             int c;
