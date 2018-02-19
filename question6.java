@@ -49,6 +49,7 @@ class Employee1
          list.add(new Employee1("nbc", 27));
          list.add(new Employee1("abc", 26));
          list.add(new Employee1("nnc", 21));
+         list.add(new Employee1("naa", 25));
 
 
          System.out.println("The required employees are: ");
